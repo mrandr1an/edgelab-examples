@@ -1,0 +1,13 @@
+#+TITLE: EdgeLab Arduino Tutorials
+#+AUTHOR: Chris Liourtas
+* About
+Το συγκεκριμένο repo είναι μια συλλογή από tutorials εμπνευσμένο από το επιμορφωτικό πρόγραμμα της EdgeLabs
+«Ανάλυση και Προγραμματισμός Συστημάτων Αυτοματισμού». Έχει ως σκοπό να διατηρήσει σημαντικά και ενδιαφέροντα κομμάτια
+κώδικα που μπορούν να χρησιμοποιηθούν ως λύσεις στις εργαστηριακές ασκήσεις του προγράμματος αλλά και να προσφέρουν
+επιπρόσθετες γνώσεις. Προς το παρών όλα τα παραδείγματα είναι γραμμένα σε C χρησιμοποιώντας τον avr-gcc compiler με target
+την atmega328. 
+* Install/Build
+
+* References
+https://embedds.com/controlling-avr-io-ports-with-avr-gcc/
+https://docs.arduino.cc/retired/hacking/software/PortManipulation/
